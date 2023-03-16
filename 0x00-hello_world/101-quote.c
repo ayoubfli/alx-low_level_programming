@@ -1,8 +1,3 @@
-#!/bin/bash
-gcc -S -masm=intel $CFILE
-
-11101-quote.c
-
 #include <stdio.h>
 #include <unistd.h>
 
